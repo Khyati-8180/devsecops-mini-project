@@ -3,4 +3,7 @@
 API_KEY = "REMOVED_FOR_SECURITY"
 
 def hello():
-    return "Hello DevSecOps Project "
+    print("Hello DevSecOps Project")
+
+
+hello()
